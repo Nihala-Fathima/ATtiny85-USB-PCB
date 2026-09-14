@@ -25,8 +25,8 @@ and a decoupling capacitor.
 
 ## Project Files
 
-- Schematic: `schematic/`
-- PCB Layout: `pcb/`
+- Schematic: `ATtiny85_USB.kicad_sch`
+- PCB Layout: `ATtiny85_USB.kicad_pcb`
 - Gerber Files: `gerbers/`
 
 ## PCB Design
